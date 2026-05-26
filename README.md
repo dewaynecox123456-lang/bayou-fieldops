@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./screenshots/bayou-fieldops-logo.png" width="220">
+</p>
+
+<h1 align="center">Bayou FieldOps</h1>
+
+<p align="center">
+Commercial local-first IT operations knowledge console and troubleshooting platform by BayouFinds.
+</p>
+
+
 # Bayou FieldOps
 
 Bayou FieldOps is a commercial desktop knowledge console for IT operations teams that need fast access to troubleshooting notes, runbooks, and field reference material while working locally.
