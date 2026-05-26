@@ -14,7 +14,27 @@ Commercial local-first IT operations knowledge console and troubleshooting platf
 Bayou FieldOps is a commercial desktop knowledge console for IT operations teams that need fast access to troubleshooting notes, runbooks, and field reference material while working locally.
 
 This public repository is marketing and support facing. The full FieldOps documentation, paid knowledge packs, internal runbooks, release process, and customer operations material are not published here.
+---
 
+## About The Author
+
+Senior Systems Engineer | PowerShell & Linux Automation | Building local-first operational tooling through BayouFinds
+
+Focused on:
+- IT operations & troubleshooting workflows
+- Active Directory audit/compliance tooling
+- Windows & Linux operational visibility
+- Offline-first software platforms
+- Knowledge engineering & field operations systems
+
+Current projects:
+- Bayou FieldOps
+- BayouOps Suite
+- Operational audit & readiness tooling
+
+https://www.bayoufinds.com
+
+---
 ## Who It Is For
 
 - IT support engineers
